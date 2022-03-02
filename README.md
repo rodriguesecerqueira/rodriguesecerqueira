@@ -40,14 +40,6 @@
 </div>  
 	
 	
-### Tasks
-
-- [ ]  Be richier than elon musk;
-- [x]  Be hot af;
-- [x]  Be some sort of hakkerboi;
-- [ ]  Be a Rockstar;
-	
-
 <!--
 **rodriguesecerqueira/rodriguesecerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
