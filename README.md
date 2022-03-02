@@ -22,12 +22,12 @@
 ## Stats	
 
 
-<img width="60%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif">
+<img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif">
 	
 <div>
 	<a href="https://github.com/rodriguesecerqueira">
-	<img width="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
-	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="265.3em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="460em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
 </div>	
 
 	
@@ -40,8 +40,8 @@
 	<a href="https://www.instagram.com/viniciusxrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://discord.gg/E6hT4kYVuJ" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 	<a href = "mailto:vinirodce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>  
-	
+	<a href = "https://open.spotify.com/user/21oz4sgmrzmc7zepk52zhizla?si=5aa7a04bb69249e0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+</div>
 	
 <!--
 **rodriguesecerqueira/rodriguesecerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
