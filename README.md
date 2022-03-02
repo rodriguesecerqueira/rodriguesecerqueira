@@ -35,7 +35,7 @@
 
 <div>
 	<a href="https://www.youtube.com/channel/UCJ5gWo0kiiRjv4gMrnN2pNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-	<a href="f352e78c-a92c-4c02-82f2-b582d5c74657" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" target="_blank"></a>
+	<a href="https://picpay.me/vinicius_rc/20.0" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" target="_blank"></a>
 	<a href="https://www.instagram.com/viniciusxrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href = "mailto:vinirodce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
