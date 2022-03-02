@@ -10,24 +10,24 @@
 ## Here is some of what i know:
 
 <div>
-	<img height="40em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-	<img height="40em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img height="40em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-	<img height="40em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-	<img height="40em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img height="40em" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-	<img height="40em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+	<img height="30em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+	<img height="30em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img height="30em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+	<img height="30em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+	<img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img height="30em" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+	<img height="30em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>	
   
 ## Stats	
 
 
-<img width="80%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif">
+<img width="70%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif">
 	
 <div>
 	<a href="https://github.com/rodriguesecerqueira">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&layout=compact&langs_count=7&theme=dracula"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&layout=compact&langs_count=7&theme=dracula"/>
+	<img height="50%" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>	
 
 	
