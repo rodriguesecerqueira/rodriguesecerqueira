@@ -21,7 +21,7 @@
   
 ## Stats	
 <div>
-	<a href="https://www.clickjogos.com.br/dl/snippets/32711.html" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
+	<a href="https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/top-gear.smc" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
 </div>
 
 <div>
