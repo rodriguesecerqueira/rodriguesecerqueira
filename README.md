@@ -1,5 +1,6 @@
 ### Hi there 👋
 <div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhlissner%2Fdoom-emacs%2Fissues%2F3382&psig=AOvVaw0i_lJ57yV77eqkAvWtn-aC&ust=1646287417134000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiL6dngpvYCFQAAAAAdAAAAABAD
 </div>
   
