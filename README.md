@@ -20,10 +20,10 @@
 </div>	
   
 ## Stats	
+<div>
+	<a href="https://www.clickjogos.com.br/dl/snippets/32711.html" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
+</div>
 
-
-<img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif">
-	
 <div>
 	<a href="https://github.com/rodriguesecerqueira">
 	<img width="265.3em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
