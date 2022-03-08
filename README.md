@@ -34,9 +34,9 @@
 </div>	
 
 	
-<h2> Contatos </h2>
+<h2 align = center> Contatos </h2>
 
-<div>
+<div align = center>
 	<a href="https://www.youtube.com/channel/UCJ5gWo0kiiRjv4gMrnN2pNw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 	<a href="https://picpay.me/vinicius_rc/20.0" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white" target="_blank"></a>
 	<a href="https://steamcommunity.com/id/leprosinho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>	
