@@ -26,7 +26,10 @@
 <div align= center>
 	<a align = center href="https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/top-gear.smc" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
 </div>
-	
+
+<div>
+</div>
+
 <div align= center>
 	<a href="https://github.com/rodriguesecerqueira">
 	<img width="265em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
