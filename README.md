@@ -30,7 +30,7 @@
 <div align= center>
 	<a href="https://github.com/rodriguesecerqueira">
 	<img width="265.3em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
-	<img width="460em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="660em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
 </div>	
 
 	
