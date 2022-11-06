@@ -29,8 +29,8 @@
 	
 <div align= center>
 	<a href="https://github.com/rodriguesecerqueira">
-	<img width="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
-	<img width="260em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="265em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="550em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
 </div>	
 
 	
