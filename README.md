@@ -8,7 +8,7 @@
 
 
 <div align= center>
-<h2 align = center>Here is some of what i know:<h2/>
+<h2 align = center>🛠  Tech Stack<h2/>
 <img height="80em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img height="80em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="80em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
