@@ -4,7 +4,7 @@
 
 > **MADE IN**:   Brazil
 
-> **LANGUAGES**:   English,   Brazillian-PT (native),   Spanish,   French (really bad);
+> **LANGUAGES**:   English,   Brazillian-PT (native),   Spanish,   French (Newbie);
 
 
 <div align= center>
