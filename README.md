@@ -1,45 +1,55 @@
-<h1 align= center><img width="3%" src="https://i.pinimg.com/originals/54/bf/23/54bf2314285a60a4ba9d36a6b47822ef.gif">  Hi, i'm Vinícius <img width="3%" src="https://i.pinimg.com/originals/54/bf/23/54bf2314285a60a4ba9d36a6b47822ef.gif"> </h1>
-
-> **NAME**:  Vinícius R. 
-
-> **MADE IN**:   Brazil
-
-> **LANGUAGES**:   English,   Brazillian-PT (native),   Spanish,   French (Newbie);
-
-
-<div align= center>
-<h2 align = center>🛠  Tech Stack<h2/>
-<img height="80em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img height="80em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img height="80em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img height="80em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img height="80em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img height="80em" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img height="80em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<h1 align= center> <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> Hi, i'm Vinícius <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> </h1>
+Hi, I'm a Computer Engineer from **UFES**. I am currently studying and trying to improve my skills daily. Always looking for an opportunity to learn and grow as a person. As you can see bellow in my "Tech Stack" tab, I have extensive knowledge of programming languages. To contact me please click in the button bellow.
 <br />
 <br />
-<br />
-</div>	
-	
 
-	
-<div align= center>
-	<a align = center href="https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/top-gear.smc" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
+<div align = center>
+	<a href="linkedin.com/in/vinícius-rodrigues-de-cerqueira-5741bb236/" title="CONTACT" target="_blank">
+		<img height="40em" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" target="_blank"></a>
 </div>
+
 
 <div>
-</div>
-
-<div align= center>
+<h2> Tech Stack <h2/>
+<a href="https://www.python.org/">
+<img title="Python" height="40em" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/Python_logo-512.png"/></a>
+<a href="https://www.ericom.com/glossary/what-is-html5/">
+<img title="HTML5" height="40em" src="https://www.shareicon.net/data/2016/06/05/776003_logo_512x512.png"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+<img title="JavaScript" height="40em" src="https://seeklogo.com/images/J/javascript-logo-851B872133-seeklogo.com.png"/></a>
+<a href="https://react.dev/">
+<img title="REACT" height="40em" src="https://static-00.iconduck.com/assets.00/react-icon-2048x1822-iy7h2x8y.png"/></a>
+<a href="https://www.w3schools.com/cpp/cpp_intro.asp">
+<img title="C++" height="40em" src="https://www.svgrepo.com/show/305912/cplusplus.svg"/></a>
+<a href="https://www.w3schools.com/css/">
+<img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
+	<br />
+	<br />
 	<a href="https://github.com/rodriguesecerqueira">
-	<img width="265em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
+	<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
 	<img width="550em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
 </div>	
 
-	
-<h2 align = center> Contatos </h2>
+<!--	
+
+<h2 align = center> Contact </h2>
 
 <div align = center>
+	<a href="https://discord.gg/E6hT4kYVuJ" target="_blank">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+	<a href = "mailto:vinirodce@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="linkedin.com/in/vinícius-rodrigues-de-cerqueira-5741bb236/" target="_blank">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+
+	<a href="https://discord.gg/E6hT4kYVuJ" target="_blank">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+	<a href = "mailto:vinirodce@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href = "https://open.spotify.com/user/21oz4sgmrzmc7zepk52zhizla?si=5aa7a04bb69249e0">
+		<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 	<a href="https://www.youtube.com/channel/UCJ5gWo0kiiRjv4gMrnN2pNw" target="_blank">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 	<a href="https://picpay.me/vinicius_rc/20.0" target="_blank">
@@ -48,29 +58,16 @@
 		<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>	
 	<a href="https://www.instagram.com/viniciusxrc/" target="_blank">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="https://discord.gg/E6hT4kYVuJ" target="_blank">
-		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-	<a href = "mailto:vinirodce@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href= "https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-de-cerqueira-5741bb236/">
-		<img width="550em" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg"></a>
-	<a href="linkedin.com/in/vin%C3%ADcius-rodrigues-de-cerqueira-5741bb236/" target="_blank">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href = "https://open.spotify.com/user/21oz4sgmrzmc7zepk52zhizla?si=5aa7a04bb69249e0">
-		<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+
+> **NAME**:  Vinícius R. 
+
+> **MADE IN**:   Brazil
+
+> **LANGUAGES**:   English,   Brazillian-PT (native),   Spanish,   French (Newbie);
+
+!!!Carrinho que gira!!!
+<div align= center>
+	<a align = center href="https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/top-gear.smc" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
 </div>
-	
-<!--
-**rodriguesecerqueira/rodriguesecerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
