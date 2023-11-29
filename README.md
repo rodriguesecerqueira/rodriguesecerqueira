@@ -4,7 +4,7 @@ Hi, I'm a Computer Engineer from **UFES**. I am currently studying and trying to
 <br />
 
 <div align = center>
-	<a href="linkedin.com/in/vinícius-rodrigues-de-cerqueira-5741bb236/" title="CONTACT" target="_blank">
+	<a href="https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-de-cerqueira-5741bb236/" title="CONTACT" target="_blank">
 		<img height="40em" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" target="_blank"></a>
 </div>
 
