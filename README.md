@@ -46,7 +46,7 @@
 	<a href="https://www.instagram.com/viniciusxrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://discord.gg/E6hT4kYVuJ" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 	<a href = "mailto:vinirodce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href= "linkedin.com/in/vinícius-rodrigues-de-cerqueira-5741bb236" target="_blank"><img width="70%" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg" target="_blank"></a>
+	<a href= "[linkedin.com/in/vinícius-rodrigues-de-cerqueira-5741bb236](https://www.linkedin.com/in/vin%C3%ADcius-rodrigues-de-cerqueira-5741bb236/)"><img width="550em" src="https://blog.b2bstack.com.br/wp-content/uploads/2022/11/LinkedIn-simbolo.jpg"></a>
 	<a href = "https://open.spotify.com/user/21oz4sgmrzmc7zepk52zhizla?si=5aa7a04bb69249e0"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 	
