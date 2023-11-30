@@ -24,6 +24,8 @@ I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, i
 <img title="C++" height="40em" src="https://www.svgrepo.com/show/305912/cplusplus.svg"/></a>
 <a href="https://www.w3schools.com/css/">
 <img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
+<a href="https://www.investopedia.com/terms/a/assembly-language.asp">
+<img title="Assembly" height="40em" src="https://i.ibb.co/hKzqp90/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b-svg.png"/></a>
 <br />
 <br />
 	<a href="https://github.com/rodriguesecerqueira">
