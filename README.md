@@ -1,5 +1,6 @@
+<img src="https://static.vecteezy.com/system/resources/previews/000/694/587/non_2x/elegant-technology-banner-background-vector.jpg">
 <h1 align= center> <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> Hi, i'm Vinícius <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> </h1>
-Hi, I'm a Computer Engineer from **UFES**. I am currently studying and trying to improve my skills daily. Always looking for an opportunity to learn and grow as a person. As you can see bellow in my "Tech Stack" tab, I have extensive knowledge of programming languages. To contact me please click in the button bellow.
+I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, improve my skills and grow as a person. As you can see bellow in my "Tech Stack" tab, I have extensive knowledge and experience in programming languages. To contact me please click in the button bellow.
 <br />
 <br />
 
@@ -23,14 +24,17 @@ Hi, I'm a Computer Engineer from **UFES**. I am currently studying and trying to
 <img title="C++" height="40em" src="https://www.svgrepo.com/show/305912/cplusplus.svg"/></a>
 <a href="https://www.w3schools.com/css/">
 <img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
+<br />
+<br />
+</div>	
+
+<!--	
+
 	<br />
 	<br />
 	<a href="https://github.com/rodriguesecerqueira">
 	<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=blue-green"/>
 	<img width="550em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=blue-green"/>
-</div>	
-
-<!--	
 
 <h2 align = center> Contact </h2>
 
@@ -59,6 +63,9 @@ Hi, I'm a Computer Engineer from **UFES**. I am currently studying and trying to
 	<a href="https://www.instagram.com/viniciusxrc/" target="_blank">
 		<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+
+https://clipart-library.com/img/918274.jpg
+https://static.vecteezy.com/system/resources/previews/000/694/587/non_2x/elegant-technology-banner-background-vector.jpg
 > **NAME**:  Vinícius R. 
 
 > **MADE IN**:   Brazil
