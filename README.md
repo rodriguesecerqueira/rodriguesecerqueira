@@ -1,5 +1,5 @@
-<img src="https://static.vecteezy.com/system/resources/previews/000/694/587/non_2x/elegant-technology-banner-background-vector.jpg">
-<h1 align= center> <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> Hi, i'm Vinícius <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> </h1>
+<img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/08/TidalDisruptions_A_1440x810.gif">
+<h1 align= center> <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> Hi, i'm Vini <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> </h1>
 I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, improve my skills and grow as a person. As you can see bellow in my "Tech Stack" tab, I have extensive knowledge and experience in programming languages. To contact me please click in the button bellow.
 <br />
 <br />
@@ -26,6 +26,9 @@ I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, i
 <img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
 <br />
 <br />
+	<a href="https://github.com/rodriguesecerqueira">
+	<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesecerqueira&theme=github_dark_dimmed"/>
+	<img width="550em" src="https://github-readme-stats.vercel.app/api?username=rodriguesecerqueira&theme=github_dark_dimmed"/>
 </div>	
 
 <!--	
@@ -76,5 +79,11 @@ https://static.vecteezy.com/system/resources/previews/000/694/587/non_2x/elegant
 <div align= center>
 	<a align = center href="https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/top-gear.smc" target="_blank"><img width="65%" src="https://i.pinimg.com/originals/a8/87/1c/a8871c47cd30e3f6f442f17d2a6dfd48.gif"></a>
 </div>
+
+https://i.ibb.co/PwjnRmk/Generic-Cybersecurity-Banner.jpg -- BANNER
+https://images.squarespace-cdn.com/content/v1/5a620ffecf81e065ed640251/1518039522008-2KZE88T77U6C370THQEV/hexagons.png?format=2500w
+
+
+https://github.com/anuraghazra/github-readme-stats/tree/master/themes
 -->
 
