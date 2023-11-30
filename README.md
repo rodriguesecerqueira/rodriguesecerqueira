@@ -1,4 +1,4 @@
-<img src="https://s5.gifyu.com/images/SRon1.gif">
+<img src="https://i.postimg.cc/YSqm655b/montanha.png">
 <h1 align= center> <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> Hi, i'm Vini <img width="3%" src="https://www.cimctrailer.net/img/yy02.gif"> </h1>
 I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, improve my skills and grow as a person. As you can see bellow in my "Tech Stack" tab, I have extensive knowledge and experience in programming languages. To contact me please click in the button bellow.
 <br />
