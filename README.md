@@ -22,6 +22,8 @@ I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, i
 <img title="REACT" height="40em" src="https://static-00.iconduck.com/assets.00/react-icon-2048x1822-iy7h2x8y.png"/></a>
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp">
 <img title="C++" height="40em" src="https://www.svgrepo.com/show/305912/cplusplus.svg"/></a>
+<a href="https://www.w3schools.com/c/c_intro.php">
+<img title="C" height="40em" src="https://i.ibb.co/5BVKJDP/c-language.png"/></a>
 <a href="https://www.w3schools.com/css/">
 <img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
 <a href="https://www.investopedia.com/terms/a/assembly-language.asp">
