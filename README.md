@@ -24,7 +24,7 @@ I'm a Computer Engineer from UFES. Always looking for an opportunity to learn, i
 <a href="https://www.w3schools.com/cpp/cpp_intro.asp">
 <img title="C++" height="40em" src="https://www.svgrepo.com/show/305912/cplusplus.svg"/></a>
 <a href="https://www.w3schools.com/c/c_intro.php">
-<img title="C" height="40em" src="https://ibb.co/PCGVSZS"/></a>
+<img title="C" height="40em" src="https://postimg.cc/YGr2F4wh/></a>
 <a href="https://www.w3schools.com/css/">
 <img title="CSS" height="40em" src="https://cdn-icons-png.flaticon.com/512/82/82127.png"/></a>
 <a href="https://www.investopedia.com/terms/a/assembly-language.asp">
